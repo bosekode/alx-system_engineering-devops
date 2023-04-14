@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "List of file in current directory"
+ls -a ../
+
+echo "List of files in /boot/"
+ls -a /boot/
+
