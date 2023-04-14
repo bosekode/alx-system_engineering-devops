@@ -1,7 +1,0 @@
-#!/bin/bash
-
-path=$(realpath "${BASH_SOURCE:-$0}")
-
-absolute_path=$(dirname $path)
-
-echo $absolute_path
